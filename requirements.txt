@@ -1,0 +1,12 @@
+# Dependencies for Module 1 & 2: Crypto Tracking & Analysis
+streamlit>=1.35.0
+pandas>=2.2.0
+plotly>=5.20.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+pytest>=8.0.0
+
+# Dependencies for Module 3: Price Forecasting
+statsmodels>=0.14.0
+scikit-learn>=1.4.0
+tensorflow>=2.16.0
